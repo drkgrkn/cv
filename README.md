@@ -1,2 +1,1 @@
-# cv
-Doruk Gürkan, CV
+# Doruk Gürkan, CV
