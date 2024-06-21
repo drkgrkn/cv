@@ -1,0 +1,52 @@
+name: Doruk Gürkan
+occupation: Software Engineer
+phone: +90 534 637 57 18
+linkedIn: linkedin.com/in/doruk-gürkan
+github: github.com/drkgrkn
+location: Istanbul, Turkey
+
+experience:
+  - company: Accenture
+    role: Backend and Cloud Engineer
+    title: Digital Techno
+    from: 04/2023
+    to: Present
+    location: Istanbul, Turkey
+    summary: |
+    details:
+
+  - company: Netaş Telekomünikasyon A.Ş.
+    role: Backend and Infrastructure Engineer
+    title: Software Design Engineer
+    from: 06/2022
+    to: 03/2023
+    location: Istanbul, Turkey
+    summary: |
+    details:
+
+education:
+  - 
+
+skills:
+  languages:
+    - Turkish (native)
+    - English (spoken and written)
+  programmingLanguages:
+    - C#
+    - Go
+    - Python
+    - SQL
+    - TypeScript
+  tools:
+    - Git
+    - Linux
+    - Bash
+  cloudAndDevops:
+    - AWS
+    - Azure
+    - Github Action
+    - Gitlab CI
+    - Azure DevOps
+    - Docker
+    - Kubernetes
+    - Bicep
