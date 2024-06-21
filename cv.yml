@@ -1,52 +1,78 @@
 name: Doruk Gürkan
 occupation: Software Engineer
-phone: +90 534 637 57 18
-linkedIn: linkedin.com/in/doruk-gürkan
-github: github.com/drkgrkn
-location: Istanbul, Turkey
+contact:
+  phone: +90 534 637 57 18
+  email: doruk.gurkan0@gmail.com
+  linkedIn: linkedin.com/in/doruk-gürkan
+  github: github.com/drkgrkn
+  location: Istanbul, Turkey
 
 experience:
-  - company: Accenture
-    role: Backend and Cloud Engineer
-    title: Digital Techno
-    from: 04/2023
-    to: Present
-    location: Istanbul, Turkey
-    summary: |
-    details:
+- company: Accenture
+  role: Backend and Cloud Engineer
+  title: Digital Tech Developer Analyst
+  from: 04/2023
+  to: Present
+  location: Istanbul, Turkey
+  details:
+  - Worked as a backend developer for multiple C# applications.
+  - Wrote and optimised CI/CD pipelines in Gitlab, GitHub and Azure DevOps.
+  - Integrated SaaS tools to pipelines for improved code quality and security.
+  - Wrote an entire project's infrastructure as code in Bicep for Azure.
+  - Automated tasks such as secret management.
 
-  - company: Netaş Telekomünikasyon A.Ş.
-    role: Backend and Infrastructure Engineer
-    title: Software Design Engineer
-    from: 06/2022
-    to: 03/2023
-    location: Istanbul, Turkey
-    summary: |
-    details:
+- company: Netaş Telekomünikasyon A.Ş.
+  role: Backend and Infrastructure Engineer
+  title: Software Design Engineer
+  from: 06/2022
+  to: 03/2023
+  location: Istanbul, Turkey
+  details:
+  - Worked as a backend developer for multiple NodeJS microservices.
+  - Configured and maintained a bare-metal Kubernetes cluster.
+  - |-
+    Configured and optimised Kafka, Redis and Postgresql services for 99.999%
+    availability and redundancy.
+  - Optimised bottlenecking SQL queries. Reduced query times from minutes to seconds.
+  - Deployed and configured Prometheus and Grafana for monitoring.
+
 
 education:
-  - 
+- school: Istanbul Technical University
+  diploma: Electronics and Communication Engineering, B.Sc.
+  grade: '3.54/4.00'
+  from: 09/2018
+  to: 06/2022
+  location: Istanbul, Turkey
+
+- school: Kabatas Erkek High
+  diploma: High School Diploma
+  grade: ''
+  from: '2013'
+  to: '2018'
+  location: Istanbul, Turkey
 
 skills:
   languages:
-    - Turkish (native)
-    - English (spoken and written)
+  - Turkish (native)
+  - English (spoken and written)
   programmingLanguages:
-    - C#
-    - Go
-    - Python
-    - SQL
-    - TypeScript
+  - C#
+  - Go
+  - Python
+  - SQL
+  - TypeScript
   tools:
-    - Git
-    - Linux
-    - Bash
-  cloudAndDevops:
-    - AWS
-    - Azure
-    - Github Action
-    - Gitlab CI
-    - Azure DevOps
-    - Docker
-    - Kubernetes
-    - Bicep
+  - Git
+  - Linux
+  - Bash
+  devops:
+  - Gitlab CI
+  - GitHub Actions
+  - Azure DevOps Pipelines
+  - Docker
+  - Kubernetes
+  cloud:
+  - AWS
+  - Azure
+  - Bicep
