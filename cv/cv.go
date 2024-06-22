@@ -1,4 +1,4 @@
-package main
+package cv
 
 type Contact struct {
 	Phone    string `yaml:"phone"`
