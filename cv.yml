@@ -15,11 +15,12 @@ experience:
   to: Present
   location: Istanbul, Turkey
   details:
-  - Worked as a backend developer for multiple C# applications.
-  - Wrote and optimised CI/CD pipelines in Gitlab, GitHub and Azure DevOps.
-  - Integrated SaaS tools to pipelines for improved code quality and security.
-  - Wrote an entire project's infrastructure as code in Bicep for Azure.
-  - Automated tasks such as secret management.
+  -  Lead meetings and drove discussions with stakeholders to resolve ambiguities.
+  - Guided non-technical stakeholders in making informed product decisions, ensured alignment with business objectives and technical feasibility.
+  - Developed cloud native applications in C#.
+  - Wrote and optimised CI/CD pipelines. Trivialised mundane tasks for improved developer experience.
+  - Deployed and managed cloud infrastructure in Azure.
+  - Implemented Infrastructure-as-Code (IaC) using Bicep on Azure.
 
 - company: Netaş Telekomünikasyon A.Ş.
   role: Backend and Infrastructure Engineer
@@ -28,7 +29,7 @@ experience:
   to: 03/2023
   location: Istanbul, Turkey
   details:
-  - Worked as a backend developer for multiple NodeJS microservices.
+  - Developed multiple microservice applications in NodeJS.
   - Configured and maintained a bare-metal Kubernetes cluster.
   - |-
     Configured and optimised Kafka, Redis and Postgresql services for 99.999%
@@ -75,4 +76,4 @@ skills:
   cloud:
   - AWS
   - Azure
-  - Bicep
+  - Bicep (IaC)

@@ -23,7 +23,6 @@ func main() {
 	}
 
 	c := templates.CV(cv)
-
 	cvFile, err := os.Create("cv.html")
 	if err != nil {
 		log.Fatal("failed to create html file")
