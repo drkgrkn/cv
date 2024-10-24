@@ -32,7 +32,7 @@ type Skills struct {
 	ProgrammingLanguages []string `yaml:"programmingLanguages"`
 	Tools                []string `yaml:"tools"`
 	Devops               []string `yaml:"devops"`
-	cloud                []string `yaml:"cloud"`
+	Cloud                []string `yaml:"cloud"`
 }
 
 type CV struct {

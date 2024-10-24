@@ -15,12 +15,13 @@ experience:
   to: Present
   location: Istanbul, Turkey
   details:
-  -  Lead meetings and drove discussions with stakeholders to resolve ambiguities.
+  - Optimised static content delivery speed. Reduced loading times by a factor of 12.
+  - Optimised CI/CD pipelines' speed from 30 minutes to less than 5 minutes.
+  - Automated development and deployment tasks, streamlined and sped up development cycles.
+  - Using Bicep (IaC) on Azure. Eliminated 100% of bugs related to configuration drift. Created completely consistent and reproducible environments.
+  - Lead meetings and drove discussions with stakeholders to resolve ambiguities.
   - Guided non-technical stakeholders in making informed product decisions, ensured alignment with business objectives and technical feasibility.
-  - Developed cloud native applications in C#.
-  - Wrote and optimised CI/CD pipelines. Trivialised mundane tasks for improved developer experience.
-  - Deployed and managed cloud infrastructure in Azure.
-  - Implemented Infrastructure-as-Code (IaC) using Bicep on Azure.
+  - Developed multiple cloud native applications in C# on Azure.
 
 - company: Netaş Telekomünikasyon A.Ş.
   role: Backend and Infrastructure Engineer
@@ -28,6 +29,7 @@ experience:
   from: 06/2022
   to: 03/2023
   location: Istanbul, Turkey
+  summary:
   details:
   - Developed multiple microservice applications in NodeJS.
   - Configured and maintained a bare-metal Kubernetes cluster.
@@ -73,7 +75,6 @@ skills:
   - Azure DevOps Pipelines
   - Docker
   - Kubernetes
+  - Bicep
   cloud:
-  - AWS
-  - Azure
-  - Bicep (IaC)
+  - Azure (Container Apps, Service Bus, SignalR, API Management, Static Web Apps, Azure SQL, Networking)
