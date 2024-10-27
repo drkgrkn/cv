@@ -35,6 +35,12 @@ type Skills struct {
 	Cloud                []string `yaml:"cloud"`
 }
 
+type Project struct {
+	Name        string `yaml:"name"`
+	Link        string `yaml:"link"`
+	Description string `yaml:"description"`
+}
+
 type CV struct {
 	Name       string       `yaml:"name"`
 	Occupation string       `yaml:"occupation"`
@@ -42,4 +48,5 @@ type CV struct {
 	Experience []Experience `yaml:"experience"`
 	Education  []Education  `yaml:"eduation"`
 	Skills     Skills       `yaml:"skills"`
+	Projects   []Project    `yaml:"projects"`
 }

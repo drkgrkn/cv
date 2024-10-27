@@ -77,3 +77,8 @@ skills:
   - Bicep
   cloud:
   - Azure (Container Apps, Service Bus, SignalR, API Management, Static Web Apps, Azure SQL, Networking)
+
+projects:
+  - name:
+    link:
+    description:
