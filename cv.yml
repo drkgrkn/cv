@@ -17,9 +17,8 @@ experience:
   details:
   - Optimised static content delivery speed. Reduced loading times by a factor of 12.
   - Optimised CI/CD pipelines' speed from 30 minutes to less than 5 minutes.
-  - Automated development and deployment tasks, streamlined and sped up development cycles.
-  - Using Bicep (IaC) on Azure. Eliminated 100% of bugs related to configuration drift. Created completely consistent and reproducible environments.
-  - Lead meetings and drove discussions with stakeholders to resolve ambiguities.
+  - Saved more than 2 hours of developer time per developer per week by automating development and deployment tasks.
+  - Using Bicep (IaC) on Azure. Eliminated 100% of bugs related to configuration drift. Shortened environment creation time to an automated <30 minutes from manual multi-hour process.
   - Guided non-technical stakeholders in making informed product decisions, ensured alignment with business objectives and technical feasibility.
   - Developed multiple cloud native applications in C# on Azure.
 
@@ -36,7 +35,7 @@ experience:
   - |-
     Configured and optimised Kafka, Redis and Postgresql services for 99.999%
     availability and redundancy.
-  - Optimised bottlenecking SQL queries. Reduced query times from minutes to seconds.
+  - Optimised bottlenecking SQL queries, reduced query times from more than 5 minutes to less than 10 seconds.
   - Deployed and configured Prometheus and Grafana for monitoring.
 
 
