@@ -16,7 +16,7 @@ experience:
   location: Istanbul, Turkey
   details:
   - Worked as the Backend and DevOps engineer for multiple projects.
-  - Achieved 100% automatized CI/CD in various projects by using Gitlab CI, Azure DevOps and GitHub Actions.
+  - Achieved 100% automatization of integration and deployment processes in various projects by using Gitlab CI, Azure DevOps and GitHub Actions.
   - Optimised CI/CD pipelines to reduce both pipeline duration and runner costs by 70%.
   - Setup a cloud native application infrastructure on Azure. Used Bicep IaC for 100% consistency and reproducability between environments.
   - Guided non-technical stakeholders in making informed product decisions, ensured alignment with business objectives and technical feasibility.
