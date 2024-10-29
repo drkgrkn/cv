@@ -15,7 +15,7 @@ experience:
   to: Present
   location: Istanbul, Turkey
   details:
-  - Worked as the Backend and DevOps engineer for multiple projects.
+  - Worked as a backend and DevOps engineer.
   - Achieved 100% automatization of integration and deployment processes in various projects by using Gitlab CI, Azure DevOps and GitHub Actions.
   - Optimised CI/CD pipelines to reduce both pipeline duration and runner costs by 70%.
   - Setup a cloud native service oriented architecture infrastructure on Azure. Used Bicep IaC for 100% consistency and reproducibility between environments.
@@ -29,6 +29,7 @@ experience:
   location: Istanbul, Turkey
   summary:
   details:
+  - Worked as a backend and infrastructure engineer.
   - Developed multiple microservice applications in NodeJS.
   - Configured and maintained a bare-metal Kubernetes cluster.
   - |-
