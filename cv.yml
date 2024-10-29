@@ -32,11 +32,9 @@ experience:
   - Worked as a backend and infrastructure engineer.
   - Developed multiple microservice applications in NodeJS.
   - Configured and maintained a bare-metal Kubernetes cluster.
-  - |-
-    Configured and optimised Kafka, Redis and Postgresql services for 99.999%
-    availability and redundancy.
+  - Configured and optimised Kafka, Redis and Postgresql services for 99.999% availability and redundancy.
   - Optimised bottlenecking SQL queries, reduced query times from more than 5 minutes to less than 10 seconds.
-  - Deployed and configured Prometheus and Grafana for monitoring.
+  - Deployed and configured Prometheus and Grafana services for monitoring.
 
 
 education:
