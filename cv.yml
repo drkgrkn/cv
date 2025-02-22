@@ -16,6 +16,7 @@ experience:
   location: Istanbul, Turkey
   details:
   - Worked as a backend and DevOps engineer.
+  - Developed backend services using .Net Core.
   - Achieved 100% automatization of integration and deployment processes in various projects using Gitlab CI, Azure DevOps and GitHub Actions.
   - Reduced CI/CD pipeline durations and runner costs by up to 80% by utilizing caching and optimizing task orders and parameters.
   - Set up and managed a cloud-native service-oriented architecture infrastructure on Azure. Used Azure Bicep to create 100% consistent and reproducible environments.
