@@ -8,74 +8,100 @@ contact:
   location: Istanbul, Turkey
 
 experience:
-- company: Accenture
-  role: Backend and Cloud Engineer
-  title: Digital Tech Developer Analyst
-  from: 04/2023
-  to: Present
-  location: Istanbul, Turkey
-  details:
-  - Worked as a backend and DevOps engineer.
-  - Developed backend services using .Net Core.
-  - Achieved 100% automatization of integration and deployment processes in various projects using Gitlab CI, Azure DevOps and GitHub Actions.
-  - Reduced CI/CD pipeline durations and runner costs by up to 80% by utilizing caching and optimizing task orders and parameters.
-  - Set up and managed a cloud-native service-oriented architecture infrastructure on Azure. Used Azure Bicep to create 100% consistent and reproducible environments.
-  - Guided non-technical stakeholders in making informed product decisions, and ensured alignment with business objectives and technical feasibility.
+  - company: Accenture
+    role: Backend and Cloud Engineer
+    title: Digital Tech Developer Analyst
+    from: 04/2023
+    to: Present
+    location: Istanbul, Turkey
+    details:
+      - >
+        Worked as a Backend and DevOps engineer.
+      - >
+        Developed backend services using .NET Core.
+      - >
+        Achieved 100% automatization of integration and deployment processes in
+        various projects using Gitlab CI, Azure DevOps and GitHub Actions.
+      - >
+        Reduced CI/CD pipeline durations and runner costs by up to 80% by
+        utilizing caching and optimizing task orders and parameters.
+      - >
+        Set up and managed a cloud-native service-oriented architecture
+        infrastructure on Azure. Used Azure Bicep to create 100% consistent and
+        reproducible environments.
+      - >
+        Guided non-technical stakeholders in making informed product decisions,
+        and ensured alignment with business objectives and technical
+        feasibility.
+      - >
+        Implemented OpenTelemetry in a distributed environment to provide
+        end-to-end distributed tracing, significantly reducing debugging time.
 
-- company: Netaş Telekomünikasyon A.Ş.
-  role: Backend and Infrastructure Engineer
-  title: Software Design Engineer
-  from: 06/2022
-  to: 03/2023
-  location: Istanbul, Turkey
-  summary:
-  details:
-  - Worked as a backend and infrastructure engineer.
-  - Developed multiple microservice applications in NodeJS.
-  - Configured and maintained a bare-metal Kubernetes cluster.
-  - Configured and optimized Kafka, Redis, and Postgresql services for 99.999% availability and redundancy.
-  - Optimized bottlenecking SQL queries, and reduced query times from more than 5 minutes to less than 10 seconds.
-  - Deployed and configured Prometheus and Grafana services for monitoring.
-
+  - company: Netaş Telekomünikasyon A.Ş.
+    role: Backend and Infrastructure Engineer
+    title: Software Design Engineer
+    from: 06/2022
+    to: 03/2023
+    location: Istanbul, Turkey
+    summary:
+    details:
+      - >
+        Worked as a backend and infrastructure engineer.
+      - >
+        Developed multiple microservice applications in NodeJS.
+      - >
+        Configured and maintained a bare-metal Kubernetes cluster.
+      - >
+        Configured and optimized Kafka, Redis, and Postgresql services for
+        99.999% availability and redundancy.
+      - >
+        Optimized bottlenecking SQL queries, and reduced query times from more
+        than 5 minutes to less than 10 seconds.
+      - >
+        Deployed and configured Prometheus and Grafana services for monitoring.
 
 education:
-- school: Istanbul Technical University
-  diploma: Electronics and Communication Engineering, B.Sc.
-  grade: '3.54/4.00'
-  from: 09/2018
-  to: 06/2022
-  location: Istanbul, Turkey
+  - school: Istanbul Technical University
+    diploma: Electronics and Communication Engineering, B.Sc.
+    grade: '3.54/4.00'
+    from: 09/2018
+    to: 06/2022
+    location: Istanbul, Turkey
 
-- school: Kabatas Erkek High
-  diploma: High School Diploma
-  grade: ''
-  from: '2013'
-  to: '2018'
-  location: Istanbul, Turkey
+  - school: Kabatas Erkek High
+    diploma: High School Diploma
+    grade: ''
+    from: '2013'
+    to: '2018'
+    location: Istanbul, Turkey
 
-skills:
+skills::
   languages:
-  - Turkish (native)
-  - English (spoken and written)
+    - Turkish (native)
+    - English (spoken and written)
   programmingLanguages:
-  - C#
-  - Go
-  - Python
-  - SQL
-  - TypeScript
+    - C#
+    - Go
+    - Python
+    - SQL
+    - TypeScript
   tools:
-  - Git
-  - Linux
-  - Bash
+    - Git
+    - Linux
+    - Bash
   devops:
-  - Gitlab CI
-  - GitHub Actions
-  - Azure DevOps Pipelines
-  - Docker
-  - Kubernetes
-  - Bicep
+    - Gitlab CI
+    - GitHub Actions
+    - Azure DevOps Pipelines
+    - Docker
+    - OpenTelemetry
+    - Kubernetes
+    - Bicep
   cloud:
-  - Azure (Container Apps, Service Bus, SignalR, API Management, Static Web Apps, Azure SQL, Key Vault, App Configuration, Virtual Networks, Private Endpoints)
+    - >
+      Azure (Container Apps, Service Bus, SignalR, API Management,
+      Static Web Apps, Azure SQL, Key Vault, App Configuration,
+      Virtual Networks, Private Endpoints)
 
 projects:
   - name:
