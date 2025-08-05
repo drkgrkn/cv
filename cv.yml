@@ -61,6 +61,12 @@ experience:
         Deployed and configured Prometheus and Grafana services for monitoring.
 
 education:
+  - school: Technical University of Munich
+    diploma: Computational Science and Engineering, M.Sc.
+    from: 10/2025
+    to: Present
+    location: Munich, Germany
+
   - school: Istanbul Technical University
     diploma: Electronics and Communication Engineering, B.Sc.
     grade: '3.54/4.00'
