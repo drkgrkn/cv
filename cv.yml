@@ -8,11 +8,20 @@ contact:
   location: Istanbul, Turkey
 
 experience:
+  - company: Brainlab
+    role: TBD
+    title: Working Student
+    from: 11/2025
+    to: Present
+    location: Munich, Germany
+    details: TBD
+
+
   - company: Accenture
     role: Backend and Cloud Engineer
     title: Digital Tech Developer Analyst
     from: 04/2023
-    to: Present
+    to: 09/2025
     location: Istanbul, Turkey
     details:
       - >
