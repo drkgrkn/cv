@@ -1,11 +1,12 @@
 name: Doruk Gürkan
 occupation: Software Engineer
 contact:
-  phone: +90 534 637 57 18
+  phone: +49 160 91154269
+  trPhone: +90 534 637 57 18
   email: doruk.gurkan0@gmail.com
   linkedIn: linkedin.com/in/doruk-gürkan
   github: github.com/drkgrkn
-  location: Istanbul, Turkey
+  location: Munich, Germany
 
 experience:
   - company: Brainlab
@@ -15,7 +16,6 @@ experience:
     to: Present
     location: Munich, Germany
     details: TBD
-
 
   - company: Accenture
     role: Backend and Cloud Engineer
